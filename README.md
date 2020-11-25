@@ -1,2 +1,13 @@
-# CrackingCodingInterview
-My implementation based on cracking coding interview
+# Interview Preparation Repo. 
+
+## Machine Learning
+
+## Coding Challenges 
+
+## Product Sense
+
+## SQL Programming
+
+## Statistics
+
+## Big Data
