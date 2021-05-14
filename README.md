@@ -1,4 +1,4 @@
-# Interview Preparation Repo. 
+# Interview Preparation Repository
 
 ## Machine Learning
 
