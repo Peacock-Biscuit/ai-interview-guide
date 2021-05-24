@@ -1,15 +1,12 @@
-# Interview Preparation Repo. 
-
-This repo is for interview preparation for DS.
+# Interview Preparation Repository
 
 ## Machine Learning
 
-## Coding Challenges 
+## Leetcode & SQL
 
-## Product Sense
-
-## SQL Programming
+## Big Data
 
 ## Statistics
 
-## Big Data
+## Product Sense
+
