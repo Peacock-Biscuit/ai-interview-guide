@@ -107,3 +107,63 @@ Due提前/好几个ddl
 为什么你是xx专业，却想做sde/ds/mle？
 你之前哪段项目/实习经历做了有关sde/ds/mle的啥？你产生了啥影响，取得了啥结果？你是不是很享受你的产出？（是，所以我想转）
 
+-----
+
+	Customer Obsession 
+Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
+	1. Dynamic Callback
+	2. Vision Health - professor plots / focus /
+Ownership 
+Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job." 
+	1. NS - railroad (sleeping / Job pressure)
+	2. NS - Job - 1/3 model 1/3 testing 1/3 utilities
+Invent and Simplify 
+Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here." As we do new things, we accept that we may be misunderstood for long periods of time. 
+	1. NS Innovative Bayesain
+	2. Visualization Trains
+Are Right, A Lot 
+Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs. 
+	1. K-means -> FPCA 
+	2. Vision Health Focus
+Learn and Be Curious 
+Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them. 
+	1. Learning Path
+	2. Bayesian Network
+Hire and Develop the Best 
+Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization. Leaders develop leaders and take seriously their role in coaching others. We work on behalf of our people to invent mechanisms for development like Career Choice. 
+Insist on the Highest Standards 
+Leaders have relentlessly high standards — many people may think these standards are unreasonably high. Leaders are continually raising the bar and drive their teams to deliver high quality products, services, and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed. 
+	1. Intermodal/Merchandise Trains (SQL -> Pandas) Keep improving interaction
+	2. Work Fatigue -> Extension -> Highest standards
+Think Big 
+Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers. 
+	1. Database -> Big Picture -> Angular.JS
+	2. Work fatigue
+Bias for Action 
+Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.  
+	1. Visualization data -> Database API (NS internship)
+	2. Data set ->Max/min/med
+Frugality 
+Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense. 
+	1. Open source coding -> Dash plotly
+	2. Data -> Int lower memory / PCA
+Earn Trust 
+Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best. 
+	1. Vision Health -> Dataset
+	2. Machine Learning -> TSNE
+Dive Deep 
+Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them. 
+	1. NS Project: Vis -> Data -> Model -> Drift
+	2. Machine Learning Project
+Have Backbone; Disagree and Commit 
+Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly. 
+	1. Multiple page python.py 
+	2. Bayesian Network - Categorical
+Deliver Results 
+Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle. 
+	1. Visualization dynamic callbacks
+	2. Data Visualization - Time Series / Map
+
+
+	
+	
