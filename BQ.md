@@ -1,4 +1,29 @@
 # Behavior Questions
+---
+## Tell Me About Yourself
+* Coursework
+* DS Internship
+* Project
+
+## Preparation
+1. Create a Preparation Grid
+
+|    | NS | UCB |
+|----|----|-----|
+|Leadership/Influence| | |
+|Teamwork|||
+|Successes|||
+|Challenges|||
+|Mistakes/Failures|||
+
+2. Master Five Key Stories: Substantial, Understandable, About you
+
+3. Follow-up Questions:
+- How did the team react?
+- How did this affect the future of the team?
+- What did you learn from this?
+- What would you do differently if this situation came up again?
+- Do you always handle situations like this? If not, what made you handle things this way this time?
 
 Customer obsession 考虑客户需求/体验
 We’ve regularly made decisions at Amazon which lowered profit/sales, because it was the right thing to do for customers. We all understand that the company performs better if our customers (and our employees) believe it’s acting in our best interest. We believe that’s the right thing to do, we make those decisions all the time, and we reward people for it.
