@@ -15,6 +15,7 @@
 
 ## Math and Statistics
 - Convex Optimization
+- A Practical Guide To Quantitative Finance Interviews (Brain Teaser & Probability)
 - Statistical Inference
 - Linear Models
 - Time Series
