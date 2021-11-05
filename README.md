@@ -36,6 +36,7 @@
 ## Data Case and Product Sense
 - Lean Analytics
 - A/B Testing - The Most Powerful Way to turn clicks into customers, Udacity
+- Trustworthy Online Controlled Experiments
 - 40 Product Questions
 - A Collection of Take-home Data Chanllenges 
 - LOMS Consulting Interview https://www.ximalaya.com/waiyu/42768772/
