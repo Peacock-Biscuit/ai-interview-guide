@@ -13,12 +13,10 @@
 - The Algorithm Design Manual
 - Cracking the coding interview
 
-## Big Data
-- Spark
-
 ## Math and Statistics
 - Convex Optimization
 - Statistical Inference
+- Linear Models
 - Time Series
 - Bayesian Statistics
 - Causal Inference
