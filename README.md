@@ -20,6 +20,7 @@
 - Linear Models
 - Time Series
 - Bayesian Statistics
+- Multivariate Data Analysis
 - Causal Inference
 
 ## ML System Design
