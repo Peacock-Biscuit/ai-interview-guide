@@ -27,7 +27,6 @@
 - CS8803-SMR Lecture Notes
 
 ## Big Data System
-- CS7201 Lecture Notes
 - Grokking System Design Interview
 - Design Data Intensive Applications
 - Spark The Definite Guide
