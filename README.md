@@ -38,5 +38,5 @@
 - Trustworthy Online Controlled Experiments
 - 40 Product Questions
 - A Collection of Take-home Data Chanllenges 
-- Stellar Papers
-- LOMS Consulting Interview https://www.ximalaya.com/waiyu/42768772/
+- Stellar Papers (https://stellarpeers.com/blog/)
+- LOMS Consulting Interview (https://www.ximalaya.com/waiyu/42768772/)
