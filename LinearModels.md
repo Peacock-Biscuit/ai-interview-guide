@@ -22,3 +22,6 @@ Ans: Least Square Estimation / Gauss-Markov Theorem (errors are uncorrelated, ha
 Ans: R^2 = 1 - RSS/Total SS (percentage of variance explained)
 
 ## Chapter 3 Inference
+
+1. Hypothesis Tests to Compare Models
+2. Testing Examples
