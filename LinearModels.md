@@ -23,5 +23,7 @@ Ans: R^2 = 1 - RSS/Total SS (percentage of variance explained)
 
 ## Chapter 3 Inference
 
-1. Hypothesis Tests to Compare Models
-2. Testing Examples
+1. Hypothesis Tests to Compare Models: F-statistics
+2. Testing Examples: Test of all predictors: F-statistics, Testing one predictor: two models(full vs. left-out)-F-statistics, or t-statistics, Testing a pair of predictors: F-statistics
+3. Permutation Tests
+
