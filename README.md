@@ -36,7 +36,6 @@
 - Lean Analytics
 - A/B Testing - The Most Powerful Way to turn clicks into customers, Udacity
 - Trustworthy Online Controlled Experiments
-- 40 Product Questions
-- A Collection of Take-home Data Chanllenges 
+- 40 Product Questions and A Collection of Take-home Data Chanllenges 
 - Stellar Papers (https://stellarpeers.com/blog/)
 - LOMS Consulting Interview (https://www.ximalaya.com/waiyu/42768772/)
