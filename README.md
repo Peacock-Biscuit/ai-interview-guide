@@ -3,15 +3,10 @@
 ## Machine Learning/Deep Learning
 - ISyE7406/CS7641/ISyE6416 Lecture Notes
 - ESL/PRML
-- Machine Learning in Action
-- Couresra Deep Learning Specialization
-- Reinforcement Learning
-- Online Learning
-- Probalistic Graphical Models
+- Deep Learning
 
-## Leetcode & SQL
+## Data Structures and Algorithms
 - The Algorithm Design Manual
-- Cracking the coding interview
 
 ## Math and Statistics
 - Convex Optimization
@@ -22,20 +17,23 @@
 - Bayesian Statistics
 - Multivariate Data Analysis
 - Causal Inference
+  1. Trustworthy Online Controlled Experiments
+  2. A/B Testing - The Most Powerful Way to turn clicks into customers, Udacity
 
 ## ML System Design
 - CS8803-SMR Lecture Notes
+- Machine Learning System Design Interview by Ali Aminian (Author), Alex Xu (Author)
 
-## Big Data System
+## System Design
 - Grokking System Design Interview
 - Design Data Intensive Applications
-- Spark The Definite Guide
 - Cloud Computing (Coursera UIUC)
 
-## Data Case and Product Sense
+#### ML System Design
+- CS8803-SMR Lecture Notes
+- Machine Learning System Design Interview by Ali Aminian (Author), Alex Xu (Author)
+
+## Product Sense
 - Lean Analytics
-- A/B Testing - The Most Powerful Way to turn clicks into customers, Udacity
-- Trustworthy Online Controlled Experiments
 - 40 Product Questions and A Collection of Take-home Data Chanllenges 
-- Stellar Papers (https://stellarpeers.com/blog/)
 - LOMS Consulting Interview (https://www.ximalaya.com/waiyu/42768772/)
