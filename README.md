@@ -1,39 +1,40 @@
-# Interview Preparation Repository
+# Purpose
 
-## Machine Learning/Deep Learning
-- ISyE7406/CS7641/ISyE6416 Lecture Notes
-- ESL/PRML
-- Deep Learning
+This repository is a curated guide for preparing technical interviews in Data Science and Machine Learning Engineering roles. It covers algorithms, system design, modeling, statistics, and product sense—designed for candidates targeting roles at top tech firms, startups, and research labs.
 
-## Data Structures and Algorithms
-- The Algorithm Design Manual
+# Contents
 
-## Math and Statistics
-- Convex Optimization
-- A Practical Guide To Quantitative Finance Interviews (Brain Teaser & Probability)
-- Statistical Inference
-- Linear Models
-- Time Series
-- Bayesian Statistics
+1. Math & Statistics
+- Statistical Inference – Casella & Berger
+- Bayesian Statistics – Gelman et al.
+- Convex Optimization – Boyd & Vandenberghe
+- Time Series Analysis – Box-Jenkins
 - Multivariate Data Analysis
 - Causal Inference
-  1. Trustworthy Online Controlled Experiments
-  2. A/B Testing - The Most Powerful Way to turn clicks into customers, Udacity
+  * Trustworthy Online Experiments
+  * A/B Testing (Udacity)
 
-## ML System Design
-- CS8803-SMR Lecture Notes
-- Machine Learning System Design Interview by Ali Aminian (Author), Alex Xu (Author)
+2. Machine Learning & Deep Learning
+- CS7641 / ISyE7406 Lecture Notes
+- Deep Learning by Goodfellow
+- Pattern Recognition and Machine Learning (PRML) by Bishop
+- Machine Learning/Deep Learning Algorithms Implementation
 
-## System Design
-- Grokking System Design Interview
-- Design Data Intensive Applications
-- Cloud Computing (Coursera UIUC)
+3. Data Structures & Algorithms
+- The Algorithm Design Manual – Steven Skiena
+- LeetCode Questions (Dynamic Programming, Graphs, Sliding Window)
 
-#### ML System Design
-- CS8803-SMR Lecture Notes
-- Machine Learning System Design Interview by Ali Aminian (Author), Alex Xu (Author)
+4. System Design
+- General System Design
+  * Designing Data-Intensive Applications – Martin Kleppmann
+  * Cloud Computing (Coursera UIUC/Gatech)
+- Machine Learning System Design
+  * ML System Design Interview – Ali Aminian & Alex Xu
+  * CS8803-SMR Notes (ML System Design)
+  * Designing Machine Learning Systems – Chip Huyen
 
-## Product Sense
+5. Product Sense & Business Impact
 - Lean Analytics
-- 40 Product Questions and A Collection of Take-home Data Chanllenges 
-- LOMS Consulting Interview (https://www.ximalaya.com/waiyu/42768772/)
+- Take-home challenges & product case studies
+- LOMS-style consulting interview prep
+- Metrics design for ML products (precision, recall, ROI, fairness)
